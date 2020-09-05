@@ -1,1 +1,3 @@
-fedora-scripts
+# Fedora Scripts
+
+Installation scripts for Fedora Linux
