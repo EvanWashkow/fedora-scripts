@@ -9,4 +9,6 @@ sudo dnf install docker-ce docker-ce-cli containerd.io
 sudo systemctl enable docker
 sudo usermod -aG docker $USER
 
+# Custom modifications
+sudo dnf install docker-compose
 echo "Please Reboot Your Machine"
